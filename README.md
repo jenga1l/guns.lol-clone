@@ -1,6 +1,6 @@
 # Clone guns.lol & e-z.bio
 
-## Preview
+## Preview https://fawkes.lol
 
 ![Preview 1](./static/preview.gif)
 
