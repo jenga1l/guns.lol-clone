@@ -8,7 +8,7 @@ export const links = [
 ];
 
 export const backgroundConfig = {
-  useVideo: false, // true - видео, false - только фото
+  useVideo: true, // true - видео, false - только фото
   videoSrc: '/background-video.mp4',
   imageSrc: '/background-image.jpg'
 };
@@ -55,3 +55,4 @@ export interface Tweens {
   tiltX: Tweened<number>;
   tiltY: Tweened<number>;
 }
+
